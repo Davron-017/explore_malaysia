@@ -1,0 +1,29 @@
+body{
+background-color: rgb(5, 6, 77);
+}
+h2{
+    color:#eee7e7 ;
+
+}
+div{
+    color: #fbfbfb;
+}
+section{
+    color: #fbfbfb;
+    font-weight: 600;
+
+}
+p{
+    text-align: none;
+    color: #D6EFD8;
+
+}
+h4{
+    color: #D6EFD8;
+    text-align: center; 
+}
+a{
+    color: #D6EFD8;
+    text-align: center;
+}
+
